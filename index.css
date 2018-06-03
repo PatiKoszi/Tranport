@@ -204,6 +204,17 @@ p {
     margin-top: 10px;
 }
 
+@media(max-width:768px) {
+    .pricing {
+        padding:30px;
+    }
+
+    .packages {
+        width: 80%;
+        margin-left: 25px;
+    }
+}
+
 
 
 
